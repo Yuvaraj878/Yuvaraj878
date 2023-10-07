@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuvaraj</h1>
 <h3 align="center">Passionate about Artificial Intelligence,Machine Learning,Web Development Techonology</h3>
-<img alt='coding' width='1000' src='https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif'>
+<img alt='coding' width='1000' height='300' src='https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvaraj878&label=Profile%20views&color=0e75b6&style=flat" alt="yuvaraj878" /> </p>
 
