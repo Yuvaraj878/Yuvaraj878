@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuvaraj</h1>
 <h3 align="center">Passionate about Artificial Intelligence,Machine Learning,Web Development Techonology</h3>
-<img alt='coding' width='600' scr='https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-27034905&psig=AOvVaw0-V9aztshYpHvZew5LAHdF&ust=1696738047811000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqGAoTCPCW4_mH44EDFQAAAAAdAAAAABDPAQ'>
+<img alt='coding' width='600' scr='https://tenor.com/view/coding-gif-27034905'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvaraj878&label=Profile%20views&color=0e75b6&style=flat" alt="yuvaraj878" /> </p>
 
