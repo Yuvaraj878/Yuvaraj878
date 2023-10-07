@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuvaraj</h1>
 <h3 align="center">Passionate about Artificial Intelligence,Machine Learning,Web Development Techonology</h3>
-<img alt='coding' width='600' scr='https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif'>
+<img alt='coding' width='600' scr='https://tenor.com/view/coding-gif-27034905'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvaraj878&label=Profile%20views&color=0e75b6&style=flat" alt="yuvaraj878" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvaraj878" alt="yuvaraj878" /></a> </p>
