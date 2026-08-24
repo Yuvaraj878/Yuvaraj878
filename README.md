@@ -1,85 +1,290 @@
-<h1 align="center">👨‍💻 Yuvaraj S</h1>
+<h1 align="center">Hi 👋, I'm Yuvaraj S</h1>
+
+<h3 align="center">
+AI/ML Engineer • Generative AI Developer • Backend Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Web+Development+Aficionado" alt="Typing SVG" />
+  <a href="https://github.com/Yuvaraj878">
+    <img src="https://komarev.com/ghpvc/?username=Yuvaraj878&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Yuvaraj878?tab=followers">
+    <img src="https://img.shields.io/github/followers/Yuvaraj878?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+  </a>
+  <img src="https://img.shields.io/github/stars/Yuvaraj878?label=Stars&style=flat&color=yellow" alt="GitHub Stars"/>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Tech Animation">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvaraj878&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-### 🚀 About Me
-
-- 🌱 Currently diving deep into **Web Development and Machine Learning**
-- 📫 Reach out to me at **ai.yuvaraj21@gmail.com**
-- ⚡ Fun fact: I'm **Cool in Technology**
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuvaraj878&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvaraj878&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj878&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvaraj878&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🤝 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yuvaraj-s-635684294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://yuvaraj-portfolio-ivory.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yuvaraj-s-635684294/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ai.yuvaraj21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<img align="right" alt="AI Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+## 🧠 About Me
+
+I'm an **AI/ML Engineer** focused on building production-ready intelligent applications.
+
+My work sits at the intersection of:
+
+* 🤖 **Artificial Intelligence & Machine Learning**
+* 🧠 **Generative AI & Large Language Models**
+* 🔎 **Retrieval-Augmented Generation (RAG)**
+* 👁️ **Computer Vision**
+* ⚡ **High-performance Python APIs**
+* 🌐 **Full-stack AI applications**
+* ☁️ **Cloud & containerized deployments**
+
+I enjoy taking an AI idea from **prototype → backend → model integration → production-ready application**.
+
+```python
+class Yuvaraj:
+
+    role = "AI/ML Engineer"
+
+    focus = [
+        "Generative AI",
+        "LLMs & RAG",
+        "Computer Vision",
+        "Machine Learning",
+        "Backend Engineering"
+    ]
+
+    currently_learning = [
+        "Advanced LLM Systems",
+        "AI Agents",
+        "Model Optimization",
+        "Scalable AI Infrastructure"
+    ]
+
+    philosophy = "Build. Learn. Optimize. Repeat."
+```
+
+---
+
+## 🚀 What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Generative AI
+
+Building intelligent applications using:
+
+* LLMs
+* RAG pipelines
+* AI agents
+* LangChain / LangGraph
+* Hugging Face
+* Prompt engineering
+* Model optimization
+
+</td>
+
+<td width="50%">
+
+### 👁️ Computer Vision
+
+Working with:
+
+* OpenCV
+* MediaPipe
+* YOLO
+* Pose estimation
+* Image / video processing
+* AI-powered analysis systems
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ AI Backend Systems
+
+Developing scalable services with:
+
+* Python
+* FastAPI
+* Django
+* REST APIs
+* PostgreSQL
+* Redis
+* Celery
+
+</td>
+
+<td width="50%">
+
+### 🌐 Full-Stack AI
+
+Building AI-powered products with:
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Docker
+* AWS
+* GitHub Actions
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+## 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
 </p>
 
-<h3 align="center">Thanks for visiting! 😊</h3>
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge&logoColor=white" />
+</p>
+
+## ⚙️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,postgres,redis&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-111827?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+</p>
+
+## 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css&theme=dark" />
+</p>
+
+## ☁️ DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,githubactions&theme=dark" />
+</p>
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuvaraj878&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj878&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yuvaraj878&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvaraj878&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yuvaraj878/Yuvaraj878/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yuvaraj878&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" />
+</p>
+
+---
+
+# 💡 Currently Exploring
+
+```text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  🧠 Advanced LLM Applications                      │
+│  🔎 Retrieval-Augmented Generation                 │
+│  🤖 AI Agents & Agentic Systems                    │
+│  👁️ Computer Vision                                 │
+│  ⚡ AI Model Optimization                           │
+│  🎙️ Real-time Voice & Avatar Systems              │
+│  ☁️ Scalable AI Infrastructure                     │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
+
+---
+
+# 📚 My Engineering Interests
+
+<p align="center">
+
+`Artificial Intelligence` •
+`Machine Learning` •
+`Deep Learning` •
+`Generative AI` •
+`LLMs` •
+`RAG` •
+`AI Agents` •
+`Computer Vision` •
+`MLOps` •
+`Backend Engineering` •
+`Cloud Computing`
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/yuvaraj-s-635684294/">
+<img src="https://img.shields.io/badge/LinkedIn-Yuvaraj%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ai.yuvaraj21@gmail.com">
+<img src="https://img.shields.io/badge/Email-ai.yuvaraj21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Yuvaraj878">
+<img src="https://img.shields.io/badge/GitHub-Yuvaraj878-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Building intelligent systems, one model at a time. 🤖</i>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
